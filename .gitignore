@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+.vs/
+*.opensdf
+*.sdf
+*.suo
+*.obj
+*.bak
+*.user
+docs/
+/lib
+/include/utpp
+build/
