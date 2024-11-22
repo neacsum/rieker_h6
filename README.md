@@ -1,9 +1,4 @@
-<small>
-Copyright (c) 2017-2024 Mircea Neacsu<br/>
-Rieker&trade; is a registered trademark of [Rieker Inc.](http://riekerinc.com)
-</small>
-
-# Contents #
+# RIEKER_H6 #
 This is a small API for communication with Rieker H6 inclinometers.
 
 The whole API is encapsulated in a single class: Flexbus. See the description 
@@ -26,4 +21,5 @@ Documentation can be generated using [Doxygen](http://www.stack.nl/~dimitri/doxy
 
 All projects have been tested under Visual Studio 2022.
 
-
+Copyright (c) 2017-2024 Mircea Neacsu<br/>
+Rieker&trade; is a registered trademark of [Rieker Inc](https://riekerinc.com)
