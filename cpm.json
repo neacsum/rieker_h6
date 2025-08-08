@@ -1,6 +1,6 @@
 {
     "name": "rieker",
-    "git": "git@github.com:neacsum/rieker.git",
+    "git": "git@github.com:neacsum/rieker_h6.git",
     "build": [
         {"cmd": "build.bat", "args":["lib"]}
     ],
